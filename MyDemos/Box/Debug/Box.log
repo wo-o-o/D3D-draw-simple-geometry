@@ -1,0 +1,8 @@
+﻿  MathHelper.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+D:\A_practice\Graphics_practice\book_practice\Common\d3dUtil.cpp(29,5): warning C4244: “参数”: 从“std::streamoff”转换到“SIZE_T”，可能丢失数据
+D:\A_practice\Graphics_practice\book_practice\Common\d3dUtil.cpp(77,32): warning C4244: “=”: 从“UINT64”转换到“LONG_PTR”，可能丢失数据
+  BoxApp.cpp
+  正在生成代码...
+  Box.vcxproj -> D:\A_practice\Graphics_practice\book_practice\MyDemos\Box\Debug\Box.exe
